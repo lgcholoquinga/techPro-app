@@ -415,10 +415,12 @@ img {
 
 .footer {
   margin-top: 2rem;
+  font-family: var(--secondaryFont);
   color: var(--primaryColor);
-  font-size: 2rem;
+  font-size: 3rem;
   text-align: center;
-  padding: 1rem;
+  padding: 1.5rem;
+  font-weight: 500;
 }
 
 .footer h3 {
